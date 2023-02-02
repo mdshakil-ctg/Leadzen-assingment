@@ -1,0 +1,13 @@
+.pagination button{
+   padding:10px 20px;
+   margin: 20px;
+   border: 1px solid black;
+   background: #FCA5A5;
+   font-weight: 700;
+   font-size: 20px;
+   border-radius: 10px;
+}
+
+.pagination button.active{
+background: #F87272;
+}
